@@ -19,7 +19,7 @@
   transform: translateY(4px);
 }
 .correct{
-  background-color: Green;
+  background-color: green;
 }
 .incorrect{
   background-color: red;
